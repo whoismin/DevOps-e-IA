@@ -13,17 +13,13 @@ O objetivo da atividade é criar um programa com API em Python capaz de consulta
 ## Tecnologias Utilizadas
 
 - Python
-- API de clima/temperatura
-- Biblioteca `requests`
 - Lógica de decisão/IA simples
 
 ## Funcionalidades
 
 - Consultar a temperatura atual do local
-- Analisar os dados recebidos pela API
 - Identificar se o clima está frio, ameno ou quente
 - Recomendar roupas adequadas para o dia
-- Exibir a sugestão de forma simples no terminal
 
 ## Exemplo de Funcionamento
 
@@ -33,9 +29,3 @@ Se a temperatura estiver amena, pode recomendar roupas leves com uma jaqueta.
 
 Se a temperatura estiver alta, pode sugerir camiseta, shorts, vestido ou roupas mais frescas.
 
-## Como Executar
-
-1. Instale a biblioteca necessária:
-
-```bash
-pip install requests
